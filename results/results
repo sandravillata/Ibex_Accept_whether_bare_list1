@@ -1,0 +1,1212 @@
+#
+# Results on Wednesday February 12 2020 15:22:39 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Form,1,0,consent,NULL,age,36
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Form,1,0,consent,NULL,state name,pa
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Form,1,0,consent,NULL,biological sex,female
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Form,1,0,consent,NULL,age,yes
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Form,1,0,consent,NULL,parents' language,yes1
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Form,1,0,consent,NULL,_REACTION_TIME_,12143
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Form,3,0,instructions,NULL,_REACTION_TIME_,23763
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,90,0,practice.bigdiff.111,NULL,NULL,Debbie ate chocolate%2C and Kathy drank milk.,1,8910
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,91,0,practice.mediumdiff.112,NULL,NULL,We students of physics are taller than you of chemistry.,0,7927
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,92,0,practice.smalldiff.113,NULL,NULL,Mary believed that Peter finished school and Bill that Peter got a job.,1,21307
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,77,0,test.transposed.do.6.12,12,NULL,Do you that think the critic viewed the western?,0,9249
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,87,0,filler.smalldiff.30,NULL,NULL,It seemed at that time that David had left.,1,16171
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,13,0,test.that.do.2.2,2,NULL,Do you think that the candidate solved the problem?,0,6749
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,86,0,filler.smalldiff.29,NULL,NULL,How likely to be a riot is there?,0,9089
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,34,0,test.transposed.wh.5.5,5,NULL,What do you that think the attendee packaged the television?,0,32411
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,82,0,filler.mediumdiff.25,NULL,NULL,One interpreter tried to be assigned to every visiting diplomat.,1,15474
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,27,0,test.whether.do.4.4,4,NULL,Do you wonder whether the student attended the workshop?,0,5423
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,83,0,filler.mediumdiff.26,NULL,NULL,That Mary was going out with Luke bothered you.,1,7250
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,56,0,test.whether.wh.3.9,9,NULL,What do you wonder whether the boyfriend edited the letter?,0,7992
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,89,0,filler.smalldiff.32,NULL,NULL,The game was played shoeless.,0,4914
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,49,0,test.that.do.2.8,8,NULL,Do you think that the hunter chased the bear?,0,4599
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Form,4,0,open_ended_question1,NULL,required,I would say thank you when he decided to give me the raise anyway.
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,53429
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,80,0,filler.bigdiff.23,NULL,NULL,Who the hell is in love with who?,1,7772
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,41,0,test.transposed.do.6.6,6,NULL,Do you that think the girl misplaced the necklace?,0,3711
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,81,0,filler.bigdiff.24,NULL,NULL,It is unimaginable for Mary to arrive on time.,1,6641
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,42,0,test.that.wh.1.7,7,NULL,What do you think that the thief avoided?,1,9198
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,85,0,filler.mediumdiff.28,NULL,NULL,The man that he gave the creeps to last night is over there.,1,10109
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,20,0,test.whether.wh.3.3,3,NULL,What do you wonder whether the housekeeper folded?,1,5866
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,84,0,filler.mediumdiff.27,NULL,NULL,There had hung over the fireplace all of the portraits by Picasso.,1,66276
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,63,0,test.whether.do.4.10,10,NULL,Do you wonder whether the husband announced the job?,0,4058
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,88,0,filler.smalldiff.31,NULL,NULL,I told Mr. Smith that I am able to paint the fence together.,0,8420
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,70,0,test.transposed.wh.5.11,11,NULL,What do you that think the broker shredded?,1,5764
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,79,0,filler.bigdiff.22,NULL,NULL,I told you when we met that Bill will come to the party.,1,6153
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,6,0,test.that.wh.1.1,1,NULL,What do you think that the patron ate?,1,11782
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Question,78,0,filler.bigdiff.21,NULL,NULL,It is illegal for one to criticize the government.,1,5302
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Form,5,0,open_ended_question2,NULL,required,I would confront the friend's partner and see what he say's first. 
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,37343
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Form,2,0,exit,NULL,randomfield,UP6UW4i7
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Form,2,0,exit,NULL,worker_id,A1HWB810RJBV2K
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Form,2,0,exit,NULL,identifier,UP6UW4i7
+1581520960,72ab6bbcac148f716a40c5c49a24330c,Form,2,0,exit,NULL,_REACTION_TIME_,29221
+#
+# Results on Wednesday February 12 2020 15:24:25 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 8.1.0; SAMSUNG SM-J260T1) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581521065,b873dda9f0868b684291d20a11976512,Form,1,0,consent,NULL,age,32
+1581521065,b873dda9f0868b684291d20a11976512,Form,1,0,consent,NULL,state name,MA
+1581521065,b873dda9f0868b684291d20a11976512,Form,1,0,consent,NULL,biological sex,female
+1581521065,b873dda9f0868b684291d20a11976512,Form,1,0,consent,NULL,age,yes
+1581521065,b873dda9f0868b684291d20a11976512,Form,1,0,consent,NULL,parents' language,yes1
+1581521065,b873dda9f0868b684291d20a11976512,Form,1,0,consent,NULL,_REACTION_TIME_,27368
+1581521065,b873dda9f0868b684291d20a11976512,Form,3,0,instructions,NULL,_REACTION_TIME_,4393
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581521065,b873dda9f0868b684291d20a11976512,Question,90,0,practice.bigdiff.111,NULL,NULL,Debbie ate chocolate%2C and Kathy drank milk.,1,6862
+1581521065,b873dda9f0868b684291d20a11976512,Question,91,0,practice.mediumdiff.112,NULL,NULL,We students of physics are taller than you students of chemistry.,1,8927
+1581521065,b873dda9f0868b684291d20a11976512,Question,92,0,practice.smalldiff.113,NULL,NULL,Mary believed Peter finished school and Bill Peter got a job.,0,32874
+1581521065,b873dda9f0868b684291d20a11976512,Question,83,0,filler.mediumdiff.26,NULL,NULL,That Mary was going out with Luke bothered you.,1,8853
+1581521065,b873dda9f0868b684291d20a11976512,Question,49,0,test.that.do.2.8,8,NULL,Do you think that the hunter chased the bear?,0,5479
+1581521065,b873dda9f0868b684291d20a11976512,Question,80,0,filler.bigdiff.23,NULL,NULL,Who the hell is in love with who?,1,4242
+1581521065,b873dda9f0868b684291d20a11976512,Question,42,0,test.that.wh.1.7,7,NULL,What do you think that the thief avoided?,1,6115
+1581521065,b873dda9f0868b684291d20a11976512,Question,85,0,filler.mediumdiff.28,NULL,NULL,The man that he gave the creeps last night to is over there.,0,27380
+1581521065,b873dda9f0868b684291d20a11976512,Question,63,0,test.whether.do.4.10,10,NULL,Do you wonder whether the husband announced the job?,0,8052
+1581521065,b873dda9f0868b684291d20a11976512,Question,87,0,filler.smalldiff.30,NULL,NULL,It seemed at that time David had left.,0,13613
+1581521065,b873dda9f0868b684291d20a11976512,Question,6,0,test.that.wh.1.1,1,NULL,What do you think that the patron ate?,1,6481
+1581521065,b873dda9f0868b684291d20a11976512,Question,86,0,filler.smalldiff.29,NULL,NULL,How likely to win the race is John?,1,13496
+1581521065,b873dda9f0868b684291d20a11976512,Question,20,0,test.whether.wh.3.3,3,NULL,What do you wonder whether the housekeeper folded the jumper?,0,10506
+1581521065,b873dda9f0868b684291d20a11976512,Question,79,0,filler.bigdiff.22,NULL,NULL,I told you when we met that Bill will come to the party.,1,8017
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581521065,b873dda9f0868b684291d20a11976512,Form,4,0,open_ended_question1,NULL,required,I appreciate the offer but I cant take that much credit for the project. My colleague did significantly more than myself. She deserves the raise.
+1581521065,b873dda9f0868b684291d20a11976512,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,183587
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581521065,b873dda9f0868b684291d20a11976512,Question,70,0,test.transposed.wh.5.11,11,NULL,What do you that think the broker shredded?,1,18726
+1581521065,b873dda9f0868b684291d20a11976512,Question,82,0,filler.mediumdiff.25,NULL,NULL,One interpreter tried to be assigned to every visiting diplomat.,1,9104
+1581521065,b873dda9f0868b684291d20a11976512,Question,34,0,test.transposed.wh.5.5,5,NULL,What do you that think the attendee packaged?,1,7983
+1581521065,b873dda9f0868b684291d20a11976512,Question,81,0,filler.bigdiff.24,NULL,NULL,It is unimaginable for Mary to arrive on time.,1,7632
+1581521065,b873dda9f0868b684291d20a11976512,Question,77,0,test.transposed.do.6.12,12,NULL,Do you that think the critic viewed the western?,0,5146
+1581521065,b873dda9f0868b684291d20a11976512,Question,88,0,filler.smalldiff.31,NULL,NULL,I told Mr. Smith that I am able to paint the fence together.,0,16855
+1581521065,b873dda9f0868b684291d20a11976512,Question,41,0,test.transposed.do.6.6,6,NULL,Do you that think the girl misplaced the necklace?,0,6369
+1581521065,b873dda9f0868b684291d20a11976512,Question,84,0,filler.mediumdiff.27,NULL,NULL,There had all hung over the fireplace the portraits by Picasso.,0,24374
+1581521065,b873dda9f0868b684291d20a11976512,Question,56,0,test.whether.wh.3.9,9,NULL,What do you wonder whether the boyfriend edited the letter?,0,8083
+1581521065,b873dda9f0868b684291d20a11976512,Question,78,0,filler.bigdiff.21,NULL,NULL,It is illegal for one to criticize the government.,1,5677
+1581521065,b873dda9f0868b684291d20a11976512,Question,27,0,test.whether.do.4.4,4,NULL,Do you wonder whether the student attended the workshop?,0,5744
+1581521065,b873dda9f0868b684291d20a11976512,Question,89,0,filler.smalldiff.32,NULL,NULL,The game was played wearing no shoes.,1,5199
+1581521065,b873dda9f0868b684291d20a11976512,Question,13,0,test.that.do.2.2,2,NULL,Do you think that the candidate solved the problem?,0,4700
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581521065,b873dda9f0868b684291d20a11976512,Form,5,0,open_ended_question2,NULL,required,I would observe their encounter while going about my business to try to get more information.
+1581521065,b873dda9f0868b684291d20a11976512,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,83416
+1581521065,b873dda9f0868b684291d20a11976512,Form,2,0,exit,NULL,randomfield,w87yBLgL
+1581521065,b873dda9f0868b684291d20a11976512,Form,2,0,exit,NULL,worker_id,A1VM3KPPCAJUXF
+1581521065,b873dda9f0868b684291d20a11976512,Form,2,0,exit,NULL,identifier,w87yBLgL
+1581521065,b873dda9f0868b684291d20a11976512,Form,2,0,exit,NULL,_REACTION_TIME_,34000
+#
+# Results on Wednesday February 12 2020 15:31:47 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581521507,3c49520c7d063631c34fe9d1235637fb,Form,1,0,consent,NULL,age,34
+1581521507,3c49520c7d063631c34fe9d1235637fb,Form,1,0,consent,NULL,state name,PA
+1581521507,3c49520c7d063631c34fe9d1235637fb,Form,1,0,consent,NULL,biological sex,male
+1581521507,3c49520c7d063631c34fe9d1235637fb,Form,1,0,consent,NULL,age,yes
+1581521507,3c49520c7d063631c34fe9d1235637fb,Form,1,0,consent,NULL,parents' language,yes1
+1581521507,3c49520c7d063631c34fe9d1235637fb,Form,1,0,consent,NULL,_REACTION_TIME_,10675
+1581521507,3c49520c7d063631c34fe9d1235637fb,Form,3,0,instructions,NULL,_REACTION_TIME_,68328
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,90,0,practice.bigdiff.111,NULL,NULL,Debbie ate chocolate%2C and Kathy drank milk.,1,6923
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,91,0,practice.mediumdiff.112,NULL,NULL,We students of physics are taller than you students of chemistry.,1,5439
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,92,0,practice.smalldiff.113,NULL,NULL,Mary believed Peter finished school and Bill Peter got a job.,0,4875
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,51,0,test.whether.do.4.8,8,NULL,Do you wonder whether the hunter chased the bear?,0,5843
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,78,0,filler.bigdiff.21,NULL,NULL,It is illegal for one to criticize the government.,1,3026
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,30,0,test.that.wh.1.5,5,NULL,What do you think that the attendee packaged?,1,5864
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,86,0,filler.smalldiff.29,NULL,NULL,How likely to win the race is John?,1,5091
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,65,0,test.transposed.do.6.10,10,NULL,Do you that think the husband announced the job?,0,2992
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,89,0,filler.smalldiff.32,NULL,NULL,The game was played shoeless.,0,3133
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,66,0,test.that.wh.1.11,11,NULL,What do you think that the broker shredded?,1,3785
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,88,0,filler.smalldiff.31,NULL,NULL,I told Mr. Smith that I am able to paint the fence together.,0,4043
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,22,0,test.transposed.wh.5.3,3,NULL,What do you that think the housekeeper folded?,1,16240
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,79,0,filler.bigdiff.22,NULL,NULL,I told you when we met that Bill will come to the party.,1,7039
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,29,0,test.transposed.do.6.4,4,NULL,Do you that think the student attended the workshop?,0,2180
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,82,0,filler.mediumdiff.25,NULL,NULL,One interpreter tried to be assigned to every visiting diplomat.,1,5324
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581521507,3c49520c7d063631c34fe9d1235637fb,Form,4,0,open_ended_question1,NULL,required,I'd let my boss know I appreciate it but that my coworker did most of the work.
+1581521507,3c49520c7d063631c34fe9d1235637fb,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,18601
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,15,0,test.whether.do.4.2,2,NULL,Do you wonder whether the candidate solved the problem?,0,3087
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,83,0,filler.mediumdiff.26,NULL,NULL,That Mary was going out with Luke bothered you.,1,3893
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,37,0,test.that.do.2.6,6,NULL,Do you think that the girl misplaced the necklace?,0,1884
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,85,0,filler.mediumdiff.28,NULL,NULL,The man that he gave the creeps to last night is over there.,1,9304
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,58,0,test.transposed.wh.5.9,9,NULL,What do you that think the boyfriend edited?,1,2543
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,87,0,filler.smalldiff.30,NULL,NULL,It seemed at that time that David had left.,1,8127
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,8,0,test.whether.wh.3.1,1,NULL,What do you wonder whether the patron ate?,1,3768
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,84,0,filler.mediumdiff.27,NULL,NULL,There had all hung over the fireplace the portraits by Picasso.,0,9733
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,73,0,test.that.do.2.12,12,NULL,Do you think that the critic viewed the western?,0,1769
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,81,0,filler.bigdiff.24,NULL,NULL,It is unimaginable for Mary to arrive on time.,1,2147
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,44,0,test.whether.wh.3.7,7,NULL,What do you wonder whether the thief avoided?,1,2897
+1581521507,3c49520c7d063631c34fe9d1235637fb,Question,80,0,filler.bigdiff.23,NULL,NULL,Who the hell is in love with who?,1,5494
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581521507,3c49520c7d063631c34fe9d1235637fb,Form,5,0,open_ended_question2,NULL,required,Honestly%2C I'd probably keep quiet. I have no idea who the fiancee was meeting or why.
+1581521507,3c49520c7d063631c34fe9d1235637fb,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,29613
+1581521507,3c49520c7d063631c34fe9d1235637fb,Form,2,0,exit,NULL,randomfield,A8z6Qaw4
+1581521507,3c49520c7d063631c34fe9d1235637fb,Form,2,0,exit,NULL,worker_id,A1M682B2WUSYJP
+1581521507,3c49520c7d063631c34fe9d1235637fb,Form,2,0,exit,NULL,identifier,A8z6Qaw4
+1581521507,3c49520c7d063631c34fe9d1235637fb,Form,2,0,exit,NULL,_REACTION_TIME_,12540
+#
+# Results on Wednesday February 12 2020 15:39:03 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Form,1,0,consent,NULL,age,27
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Form,1,0,consent,NULL,state name,ID
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Form,1,0,consent,NULL,biological sex,male
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Form,1,0,consent,NULL,age,yes
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Form,1,0,consent,NULL,parents' language,yes1
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Form,1,0,consent,NULL,_REACTION_TIME_,8829
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Form,3,0,instructions,NULL,_REACTION_TIME_,9470
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,90,0,practice.bigdiff.111,NULL,NULL,Debbie ate chocolate%2C and Kathy drank milk.,1,3468
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,91,0,practice.mediumdiff.112,NULL,NULL,We students of physics are taller than you students of chemistry.,1,7072
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,92,0,practice.smalldiff.113,NULL,NULL,Mary believed Peter finished school and Bill Peter got a job.,0,12535
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,85,0,filler.mediumdiff.28,NULL,NULL,The man that he gave the creeps to last night is over there.,1,6988
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,67,0,test.that.do.2.11,11,NULL,Do you think that the broker shredded the file?,0,4610
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,88,0,filler.smalldiff.31,NULL,NULL,I told Mr. Smith that I am able to paint the fence together.,0,9032
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,45,0,test.whether.do.4.7,7,NULL,Do you wonder whether the thief avoided the checkpoint?,0,3104
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,81,0,filler.bigdiff.24,NULL,NULL,It is unimaginable for Mary to arrive on time.,1,4660
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,74,0,test.whether.wh.3.12,12,NULL,What do you wonder whether the critic viewed?,1,6347
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,83,0,filler.mediumdiff.26,NULL,NULL,That Mary was going out with Luke bothered you.,1,10924
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,16,0,test.transposed.wh.5.2,2,NULL,What do you that think the candidate solved?,1,3419
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,87,0,filler.smalldiff.30,NULL,NULL,It seemed at that time David had left.,0,7501
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,23,0,test.transposed.do.6.3,3,NULL,Do you that think the housekeeper folded the jumper?,0,8224
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,78,0,filler.bigdiff.21,NULL,NULL,It is illegal for one to criticize the government.,1,2568
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,9,0,test.whether.do.4.1,1,NULL,Do you wonder whether the patron ate the omelette?,0,3999
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Form,4,0,open_ended_question1,NULL,required,Still accept the raise
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,17201
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,86,0,filler.smalldiff.29,NULL,NULL,How likely to be a riot is there?,0,4244
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,38,0,test.whether.wh.3.6,6,NULL,What do you wonder whether the girl misplaced?,1,5079
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,79,0,filler.bigdiff.22,NULL,NULL,I told you when we met that Bill will come to the party.,1,4985
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,31,0,test.that.do.2.5,5,NULL,Do you think that the attendee packaged the television?,0,3605
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,80,0,filler.bigdiff.23,NULL,NULL,Who the hell is in love with who?,1,3577
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,60,0,test.that.wh.1.10,10,NULL,What do you think that the husband announced?,1,4079
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,89,0,filler.smalldiff.32,NULL,NULL,The game was played wearing no shoes.,1,4492
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,52,0,test.transposed.wh.5.8,8,NULL,What do you that think the hunter chased?,1,2578
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,82,0,filler.mediumdiff.25,NULL,NULL,One interpreter tried to be assigned to every visiting diplomat.,1,6634
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,24,0,test.that.wh.1.4,4,NULL,What do you think that the student attended?,1,2635
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,84,0,filler.mediumdiff.27,NULL,NULL,There had all hung over the fireplace the portraits by Picasso.,0,6883
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Question,59,0,test.transposed.do.6.9,9,NULL,Do you that think the boyfriend edited the letter?,0,6728
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Form,5,0,open_ended_question2,NULL,required,I would tell my friend
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,13062
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Form,2,0,exit,NULL,randomfield,exHFFQzp
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Form,2,0,exit,NULL,worker_id,A2M3FPQF852HW4
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Form,2,0,exit,NULL,identifier,exHFFQzp
+1581521944,1ecc72053f171b5b27ba31e8c1eb28b9,Form,2,0,exit,NULL,_REACTION_TIME_,7740
+#
+# Results on Wednesday February 12 2020 15:41:43 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581522103,7afed24749c1877db075f17873d62aa1,Form,1,0,consent,NULL,age,31
+1581522103,7afed24749c1877db075f17873d62aa1,Form,1,0,consent,NULL,state name,IL
+1581522103,7afed24749c1877db075f17873d62aa1,Form,1,0,consent,NULL,biological sex,female
+1581522103,7afed24749c1877db075f17873d62aa1,Form,1,0,consent,NULL,age,yes
+1581522103,7afed24749c1877db075f17873d62aa1,Form,1,0,consent,NULL,parents' language,yes1
+1581522103,7afed24749c1877db075f17873d62aa1,Form,1,0,consent,NULL,_REACTION_TIME_,11889
+1581522103,7afed24749c1877db075f17873d62aa1,Form,3,0,instructions,NULL,_REACTION_TIME_,6851
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581522103,7afed24749c1877db075f17873d62aa1,Question,90,0,practice.bigdiff.111,NULL,NULL,Debbie ate chocolate%2C and Kathy drank milk.,1,7221
+1581522103,7afed24749c1877db075f17873d62aa1,Question,91,0,practice.mediumdiff.112,NULL,NULL,We students of physics are taller than you students of chemistry.,1,4877
+1581522103,7afed24749c1877db075f17873d62aa1,Question,92,0,practice.smalldiff.113,NULL,NULL,Mary believed that Peter finished school and Bill that Peter got a job.,1,5837
+1581522103,7afed24749c1877db075f17873d62aa1,Question,89,0,filler.smalldiff.32,NULL,NULL,The game was played wearing no shoes.,1,40255
+1581522103,7afed24749c1877db075f17873d62aa1,Question,24,0,test.that.wh.1.4,4,NULL,What do you think that the student attended?,1,6146
+1581522103,7afed24749c1877db075f17873d62aa1,Question,79,0,filler.bigdiff.22,NULL,NULL,I told you when we met that Bill will come to the party.,1,37865
+1581522103,7afed24749c1877db075f17873d62aa1,Question,16,0,test.transposed.wh.5.2,2,NULL,What do you that think the candidate solved?,1,13603
+1581522103,7afed24749c1877db075f17873d62aa1,Question,80,0,filler.bigdiff.23,NULL,NULL,Who the hell is in love with who?,1,2667
+1581522103,7afed24749c1877db075f17873d62aa1,Question,60,0,test.that.wh.1.10,10,NULL,What do you think that the husband announced?,1,3092
+1581522103,7afed24749c1877db075f17873d62aa1,Question,85,0,filler.mediumdiff.28,NULL,NULL,The man that he gave the creeps to last night is over there.,1,7129
+1581522103,7afed24749c1877db075f17873d62aa1,Question,52,0,test.transposed.wh.5.8,8,NULL,What do you that think the hunter chased?,1,12939
+1581522103,7afed24749c1877db075f17873d62aa1,Question,88,0,filler.smalldiff.31,NULL,NULL,I told Mr. Smith that I am able to paint the fence together.,0,19891
+1581522103,7afed24749c1877db075f17873d62aa1,Question,67,0,test.that.do.2.11,11,NULL,Do you think that the broker shredded the file?,0,3662
+1581522103,7afed24749c1877db075f17873d62aa1,Question,87,0,filler.smalldiff.30,NULL,NULL,It seemed at that time that David had left.,1,8004
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581522103,7afed24749c1877db075f17873d62aa1,Form,4,0,open_ended_question1,NULL,required,I would thank him but admit that I had help from my colleague.
+1581522103,7afed24749c1877db075f17873d62aa1,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,18222
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581522103,7afed24749c1877db075f17873d62aa1,Question,23,0,test.transposed.do.6.3,3,NULL,Do you that think the housekeeper folded the jumper?,0,20878
+1581522103,7afed24749c1877db075f17873d62aa1,Question,86,0,filler.smalldiff.29,NULL,NULL,How likely to win the race is John?,1,3635
+1581522103,7afed24749c1877db075f17873d62aa1,Question,31,0,test.that.do.2.5,5,NULL,Do you think that the attendee packaged the television?,0,3012
+1581522103,7afed24749c1877db075f17873d62aa1,Question,82,0,filler.mediumdiff.25,NULL,NULL,One interpreter tried to be assigned to every visiting diplomat.,1,83623
+1581522103,7afed24749c1877db075f17873d62aa1,Question,38,0,test.whether.wh.3.6,6,NULL,What do you wonder whether the girl misplaced?,1,3099
+1581522103,7afed24749c1877db075f17873d62aa1,Question,78,0,filler.bigdiff.21,NULL,NULL,It is illegal for one to criticize the government.,1,2534
+1581522103,7afed24749c1877db075f17873d62aa1,Question,45,0,test.whether.do.4.7,7,NULL,Do you wonder whether the thief avoided the checkpoint?,0,2285
+1581522103,7afed24749c1877db075f17873d62aa1,Question,83,0,filler.mediumdiff.26,NULL,NULL,Who did that Mary was going out with bother you?,0,5296
+1581522103,7afed24749c1877db075f17873d62aa1,Question,59,0,test.transposed.do.6.9,9,NULL,Do you that think the boyfriend edited the letter?,0,3164
+1581522103,7afed24749c1877db075f17873d62aa1,Question,84,0,filler.mediumdiff.27,NULL,NULL,There had hung over the fireplace all of the portraits by Picasso.,1,5566
+1581522103,7afed24749c1877db075f17873d62aa1,Question,9,0,test.whether.do.4.1,1,NULL,Do you wonder whether the patron ate the omelette?,0,2558
+1581522103,7afed24749c1877db075f17873d62aa1,Question,81,0,filler.bigdiff.24,NULL,NULL,It is unimaginable for Mary to arrive on time.,1,3077
+1581522103,7afed24749c1877db075f17873d62aa1,Question,74,0,test.whether.wh.3.12,12,NULL,What do you wonder whether the critic viewed the western?,0,2034
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581522103,7afed24749c1877db075f17873d62aa1,Form,5,0,open_ended_question2,NULL,required,I would not tell my best friend because it's not my business.
+1581522103,7afed24749c1877db075f17873d62aa1,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,12012
+1581522103,7afed24749c1877db075f17873d62aa1,Form,2,0,exit,NULL,randomfield,OsI26lQa
+1581522103,7afed24749c1877db075f17873d62aa1,Form,2,0,exit,NULL,worker_id,A9HQ3E0F2AGVO
+1581522103,7afed24749c1877db075f17873d62aa1,Form,2,0,exit,NULL,identifier,OsI26lQa
+1581522103,7afed24749c1877db075f17873d62aa1,Form,2,0,exit,NULL,_REACTION_TIME_,7505
+#
+# Results on Wednesday February 12 2020 15:42:12 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Form,1,0,consent,NULL,age,48
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Form,1,0,consent,NULL,state name,vt
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Form,1,0,consent,NULL,biological sex,female
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Form,1,0,consent,NULL,age,yes
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Form,1,0,consent,NULL,parents' language,yes1
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Form,1,0,consent,NULL,_REACTION_TIME_,14148
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Form,3,0,instructions,NULL,_REACTION_TIME_,15551
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,90,0,practice.bigdiff.111,NULL,NULL,Debbie ate chocolate%2C and Kathy drank milk.,1,3701
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,91,0,practice.mediumdiff.112,NULL,NULL,We students of physics are taller than you of chemistry.,0,7731
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,92,0,practice.smalldiff.113,NULL,NULL,Mary believed Peter finished school and Bill Peter got a job.,0,10419
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,9,0,test.whether.do.4.1,1,NULL,Do you wonder whether the patron ate the omelette?,0,3285
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,85,0,filler.mediumdiff.28,NULL,NULL,The man that he gave the creeps to last night is over there.,1,6316
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,45,0,test.whether.do.4.7,7,NULL,Do you wonder whether the thief avoided the checkpoint?,0,2765
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,80,0,filler.bigdiff.23,NULL,NULL,Who the hell is in love with who?,1,5522
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,59,0,test.transposed.do.6.9,9,NULL,Do you that think the boyfriend edited the letter?,0,2908
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,83,0,filler.mediumdiff.26,NULL,NULL,That Mary was going out with Luke bothered you.,1,7936
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,38,0,test.whether.wh.3.6,6,NULL,What do you wonder whether the girl misplaced the necklace?,0,6729
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,82,0,filler.mediumdiff.25,NULL,NULL,One interpreter each tried to be assigned to every visiting diplomat.,0,7134
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,16,0,test.transposed.wh.5.2,2,NULL,What do you that think the candidate solved?,1,6470
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,84,0,filler.mediumdiff.27,NULL,NULL,There had hung over the fireplace all of the portraits by Picasso.,1,7665
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,52,0,test.transposed.wh.5.8,8,NULL,What do you that think the hunter chased?,1,92334
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Form,4,0,open_ended_question1,NULL,required,I would tell my boss that my coworker and I worked hard and they deserve a raise as well
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,31370
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,81,0,filler.bigdiff.24,NULL,NULL,It is unimaginable for Mary to arrive on time.,1,9484
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,74,0,test.whether.wh.3.12,12,NULL,What do you wonder whether the critic viewed the western?,0,3915
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,88,0,filler.smalldiff.31,NULL,NULL,I told Mr. Smith that I am able to paint the fence together.,0,9901
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,60,0,test.that.wh.1.10,10,NULL,What do you think that the husband announced?,1,4321
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,89,0,filler.smalldiff.32,NULL,NULL,The game was played shoeless.,0,5729
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,23,0,test.transposed.do.6.3,3,NULL,Do you that think the housekeeper folded?,1,3615
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,79,0,filler.bigdiff.22,NULL,NULL,I told you when we met that Bill will come to the party.,1,8012
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,31,0,test.that.do.2.5,5,NULL,Do you think that the attendee packaged?,1,3239
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,87,0,filler.smalldiff.30,NULL,NULL,It seemed at that time David had left.,0,25656
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,67,0,test.that.do.2.11,11,NULL,Do you think that the broker shredded?,1,2574
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,86,0,filler.smalldiff.29,NULL,NULL,How likely to win the race is John?,1,2933
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,24,0,test.that.wh.1.4,4,NULL,What do you think that the student attended?,1,3160
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Question,78,0,filler.bigdiff.21,NULL,NULL,It is illegal for one to criticize the government.,1,4627
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Form,5,0,open_ended_question2,NULL,required,I would casually mention I saw him at a restaurant with a freind
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,29392
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Form,2,0,exit,NULL,randomfield,q7WS0ww8
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Form,2,0,exit,NULL,worker_id,A2IQ0QCTQ3KWLT
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Form,2,0,exit,NULL,identifier,q7WS0ww8
+1581522133,e1df876be9ffd1294706efc7e1be1ab7,Form,2,0,exit,NULL,_REACTION_TIME_,14767
+#
+# Results on Wednesday February 12 2020 15:58:08 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4041.0 Safari/537.36 Edg/81.0.410.1
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581523088,7fc4a14d5660257da99a1627a128d256,Form,1,0,consent,NULL,age,35
+1581523088,7fc4a14d5660257da99a1627a128d256,Form,1,0,consent,NULL,state name,NY
+1581523088,7fc4a14d5660257da99a1627a128d256,Form,1,0,consent,NULL,biological sex,male
+1581523088,7fc4a14d5660257da99a1627a128d256,Form,1,0,consent,NULL,age,yes
+1581523088,7fc4a14d5660257da99a1627a128d256,Form,1,0,consent,NULL,parents' language,yes1
+1581523088,7fc4a14d5660257da99a1627a128d256,Form,1,0,consent,NULL,_REACTION_TIME_,762958
+1581523088,7fc4a14d5660257da99a1627a128d256,Form,3,0,instructions,NULL,_REACTION_TIME_,5059
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,90,0,practice.bigdiff.111,NULL,NULL,Debbie ate chocolate%2C and Kathy drank milk.,1,3375
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,91,0,practice.mediumdiff.112,NULL,NULL,We students of physics are taller than you students of chemistry.,1,6613
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,92,0,practice.smalldiff.113,NULL,NULL,Mary believed that Peter finished school and Bill that Peter got a job.,1,6062
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,67,0,test.that.do.2.11,11,NULL,Do you think that the broker shredded the file?,0,4746
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,80,0,filler.bigdiff.23,NULL,NULL,Who the hell is in love with who?,1,2497
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,31,0,test.that.do.2.5,5,NULL,Do you think that the attendee packaged the television?,0,3871
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,87,0,filler.smalldiff.30,NULL,NULL,It seemed at that time that David had left.,1,11372
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,16,0,test.transposed.wh.5.2,2,NULL,What do you that think the candidate solved?,1,7495
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,86,0,filler.smalldiff.29,NULL,NULL,How likely to win the race is John?,1,4434
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,74,0,test.whether.wh.3.12,12,NULL,What do you wonder whether the critic viewed the western?,0,46499
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,79,0,filler.bigdiff.22,NULL,NULL,I told you when we met that Bill will come to the party.,1,6306
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,9,0,test.whether.do.4.1,1,NULL,Do you wonder whether the patron ate the omelette?,0,2936
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,85,0,filler.mediumdiff.28,NULL,NULL,The man that he gave the creeps last night to is over there.,0,2684
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,24,0,test.that.wh.1.4,4,NULL,What do you think that the student attended the workshop?,0,1246
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581523088,7fc4a14d5660257da99a1627a128d256,Form,4,0,open_ended_question1,NULL,required,I would just accept the raise because it's important to look out for yourself
+1581523088,7fc4a14d5660257da99a1627a128d256,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,17185
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,84,0,filler.mediumdiff.27,NULL,NULL,There had all hung over the fireplace the portraits by Picasso.,0,4806
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,23,0,test.transposed.do.6.3,3,NULL,Do you that think the housekeeper folded the jumper?,0,1934
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,83,0,filler.mediumdiff.26,NULL,NULL,That Mary was going out with Luke bothered you.,1,61123
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,59,0,test.transposed.do.6.9,9,NULL,Do you that think the boyfriend edited?,1,3941
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,81,0,filler.bigdiff.24,NULL,NULL,It is unimaginable for Mary to arrive on time.,1,258235
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,38,0,test.whether.wh.3.6,6,NULL,What do you wonder whether the girl misplaced the necklace?,0,2433
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,78,0,filler.bigdiff.21,NULL,NULL,It is illegal for one to criticize the government.,1,1999
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,45,0,test.whether.do.4.7,7,NULL,Do you wonder whether the thief avoided the checkpoint?,0,3183
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,88,0,filler.smalldiff.31,NULL,NULL,I told Mr. Smith that I am able to paint the fence together.,0,2621
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,52,0,test.transposed.wh.5.8,8,NULL,What do you that think the hunter chased the bear?,0,2747
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,89,0,filler.smalldiff.32,NULL,NULL,The game was played wearing no shoes.,1,2309
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,60,0,test.that.wh.1.10,10,NULL,What do you think that the husband announced the job?,0,3373
+1581523088,7fc4a14d5660257da99a1627a128d256,Question,82,0,filler.mediumdiff.25,NULL,NULL,One interpreter each tried to be assigned to every visiting diplomat.,0,1432
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581523088,7fc4a14d5660257da99a1627a128d256,Form,5,0,open_ended_question2,NULL,required,I would bring it up to him because it would suck to not know.
+1581523088,7fc4a14d5660257da99a1627a128d256,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,13063
+1581523088,7fc4a14d5660257da99a1627a128d256,Form,2,0,exit,NULL,randomfield,ImvlmCGC
+1581523088,7fc4a14d5660257da99a1627a128d256,Form,2,0,exit,NULL,worker_id,A3MFK5UEUG95M3
+1581523088,7fc4a14d5660257da99a1627a128d256,Form,2,0,exit,NULL,identifier,ImvlmCGC
+1581523088,7fc4a14d5660257da99a1627a128d256,Form,2,0,exit,NULL,_REACTION_TIME_,7682
+#
+# Results on Wednesday February 12 2020 15:59:23 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Form,1,0,consent,NULL,age,30
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Form,1,0,consent,NULL,state name,GA
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Form,1,0,consent,NULL,biological sex,male
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Form,1,0,consent,NULL,age,yes
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Form,1,0,consent,NULL,parents' language,yes1
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Form,1,0,consent,NULL,_REACTION_TIME_,7076
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Form,3,0,instructions,NULL,_REACTION_TIME_,26149
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,90,0,practice.bigdiff.111,NULL,NULL,Debbie ate chocolate%2C and Kathy drank milk.,1,8802
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,91,0,practice.mediumdiff.112,NULL,NULL,We students of physics are taller than you students of chemistry.,1,7332
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,92,0,practice.smalldiff.113,NULL,NULL,Mary believed Peter finished school and Bill Peter got a job.,0,10725
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,34,0,test.transposed.wh.5.5,5,NULL,What do you that think the attendee packaged?,1,4143
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,84,0,filler.mediumdiff.27,NULL,NULL,There had hung over the fireplace all of the portraits by Picasso.,1,10546
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,6,0,test.that.wh.1.1,1,NULL,What do you think that the patron ate?,1,5004
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,82,0,filler.mediumdiff.25,NULL,NULL,One interpreter tried to be assigned to every visiting diplomat.,1,4107
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,49,0,test.that.do.2.8,8,NULL,Do you think that the hunter chased the bear?,0,2731
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,88,0,filler.smalldiff.31,NULL,NULL,I told Mr. Smith that I am able to paint the fence together.,0,3803
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,20,0,test.whether.wh.3.3,3,NULL,What do you wonder whether the housekeeper folded?,1,3728
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,89,0,filler.smalldiff.32,NULL,NULL,The game was played wearing no shoes.,1,6691
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,56,0,test.whether.wh.3.9,9,NULL,What do you wonder whether the boyfriend edited?,1,4867
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,78,0,filler.bigdiff.21,NULL,NULL,It is illegal for one to criticize the government.,1,2615
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,42,0,test.that.wh.1.7,7,NULL,What do you think that the thief avoided?,1,2638
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,79,0,filler.bigdiff.22,NULL,NULL,I told you when we met that Bill will come to the party.,1,9850
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Form,4,0,open_ended_question1,NULL,required,I would accept the raise and not say anything%2C because even though my coworker did more work than I did%2C I still did some work at least.
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,38391
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,77,0,test.transposed.do.6.12,12,NULL,Do you that think the critic viewed the western?,0,7885
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,85,0,filler.mediumdiff.28,NULL,NULL,The man that he gave the creeps to last night is over there.,1,7829
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,63,0,test.whether.do.4.10,10,NULL,Do you wonder whether the husband announced the job?,0,4523
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,86,0,filler.smalldiff.29,NULL,NULL,How likely to be a riot is there?,0,5040
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,70,0,test.transposed.wh.5.11,11,NULL,What do you that think the broker shredded?,1,7967
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,87,0,filler.smalldiff.30,NULL,NULL,It seemed at that time David had left.,0,5872
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,41,0,test.transposed.do.6.6,6,NULL,Do you that think the girl misplaced the necklace?,0,3620
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,80,0,filler.bigdiff.23,NULL,NULL,Who the hell is in love with who?,1,3807
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,27,0,test.whether.do.4.4,4,NULL,Do you wonder whether the student attended?,1,3329
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,81,0,filler.bigdiff.24,NULL,NULL,It is unimaginable for Mary to arrive on time.,1,3337
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,13,0,test.that.do.2.2,2,NULL,Do you think that the candidate solved the problem?,0,2673
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Question,83,0,filler.mediumdiff.26,NULL,NULL,That Mary was going out with Luke bothered you.,1,5075
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Form,5,0,open_ended_question2,NULL,required,I'd confront the partner to see what she has to say for herself.
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,29504
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Form,2,0,exit,NULL,randomfield,60xgowI1
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Form,2,0,exit,NULL,worker_id,A1GCTKOPKUTW3G
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Form,2,0,exit,NULL,identifier,60xgowI1
+1581523163,93fcfd1c96890eab1eb517c62d0b8a37,Form,2,0,exit,NULL,_REACTION_TIME_,15288
+#
+# Results on Wednesday February 12 2020 16:01:30 UTC.
+# USER AGENT: Mozilla/5.0 (X11; CrOS x86_64 12607.81.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.119 Safari/537.36
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Form,1,0,consent,NULL,age,41
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Form,1,0,consent,NULL,state name,ny
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Form,1,0,consent,NULL,biological sex,male
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Form,1,0,consent,NULL,age,yes
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Form,1,0,consent,NULL,parents' language,yes1
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Form,1,0,consent,NULL,_REACTION_TIME_,10994
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Form,3,0,instructions,NULL,_REACTION_TIME_,53085
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,90,0,practice.bigdiff.111,NULL,NULL,Debbie ate chocolate%2C and Kathy drank milk.,1,4434
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,91,0,practice.mediumdiff.112,NULL,NULL,We students of physics are taller than you students of chemistry.,1,5383
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,92,0,practice.smalldiff.113,NULL,NULL,Mary believed Peter finished school and Bill Peter got a job.,0,115796
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,78,0,filler.bigdiff.21,NULL,NULL,It is illegal for one to criticize the government.,1,2992
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,42,0,test.that.wh.1.7,7,NULL,What do you think that the thief avoided?,1,4556
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,80,0,filler.bigdiff.23,NULL,NULL,Who the hell is in love with who?,1,3933
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,70,0,test.transposed.wh.5.11,11,NULL,What do you that think the broker shredded?,1,5271
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,81,0,filler.bigdiff.24,NULL,NULL,It is unimaginable for Mary to arrive on time.,1,4368
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,13,0,test.that.do.2.2,2,NULL,Do you think that the candidate solved the problem?,0,12002
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,89,0,filler.smalldiff.32,NULL,NULL,The game was played wearing no shoes.,1,11584
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,77,0,test.transposed.do.6.12,12,NULL,Do you that think the critic viewed the western?,0,4661
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,84,0,filler.mediumdiff.27,NULL,NULL,There had hung over the fireplace all of the portraits by Picasso.,1,8676
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,49,0,test.that.do.2.8,8,NULL,Do you think that the hunter chased the bear?,0,2740
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,86,0,filler.smalldiff.29,NULL,NULL,How likely to win the race is John?,1,5443
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Form,4,0,open_ended_question1,NULL,required,go to my boss and tell him that it's unfair and we should be equally compensated
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,28829
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,20,0,test.whether.wh.3.3,3,NULL,What do you wonder whether the housekeeper folded?,1,15912
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,88,0,filler.smalldiff.31,NULL,NULL,I told Mr. Smith that I wonder when to paint the fence together.,1,5999
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,27,0,test.whether.do.4.4,4,NULL,Do you wonder whether the student attended the workshop?,0,3502
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,82,0,filler.mediumdiff.25,NULL,NULL,One interpreter tried to be assigned to every visiting diplomat.,1,4416
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,41,0,test.transposed.do.6.6,6,NULL,Do you that think the girl misplaced the necklace?,0,3012
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,87,0,filler.smalldiff.30,NULL,NULL,It seemed at that time David had left.,0,4375
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,34,0,test.transposed.wh.5.5,5,NULL,What do you that think the attendee packaged?,1,8941
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,79,0,filler.bigdiff.22,NULL,NULL,I told you when we met that Bill will come to the party.,1,10397
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,6,0,test.that.wh.1.1,1,NULL,What do you think that the patron ate?,1,5136
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,83,0,filler.mediumdiff.26,NULL,NULL,That Mary was going out with Luke bothered you.,1,8888
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,56,0,test.whether.wh.3.9,9,NULL,What do you wonder whether the boyfriend edited?,1,3595
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,85,0,filler.mediumdiff.28,NULL,NULL,The man that he gave the creeps last night to is over there.,0,8026
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Question,63,0,test.whether.do.4.10,10,NULL,Do you wonder whether the husband announced the job?,0,6815
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Form,5,0,open_ended_question2,NULL,required,i would keep it in me and not tell him anything but i would go to his or her partner and tell them the day of the wedding so they can call it off
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,34909
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Form,2,0,exit,NULL,randomfield,9w3Ctxle
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Form,2,0,exit,NULL,worker_id,A23KAJRDVCVGOE
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Form,2,0,exit,NULL,identifier,9w3Ctxle
+1581523290,a89e1c58bee957cf3d044f2ff527c6d1,Form,2,0,exit,NULL,_REACTION_TIME_,154056
+#
+# Results on Wednesday February 12 2020 17:00:13 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+# Design number was non-random = 9
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Form,1,0,consent,NULL,age,27
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Form,1,0,consent,NULL,state name,FL
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Form,1,0,consent,NULL,biological sex,male
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Form,1,0,consent,NULL,age,yes
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Form,1,0,consent,NULL,parents' language,yes1
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Form,1,0,consent,NULL,_REACTION_TIME_,11893
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Form,3,0,instructions,NULL,_REACTION_TIME_,16809
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,90,0,practice.bigdiff.111,NULL,NULL,Debbie ate chocolate%2C and Kathy drank milk.,1,5387
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,91,0,practice.mediumdiff.112,NULL,NULL,We students of physics are taller than you of chemistry.,0,42118
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,92,0,practice.smalldiff.113,NULL,NULL,Mary believed that Peter finished school and Bill that Peter got a job.,1,57888
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,52,0,test.transposed.wh.5.8,8,NULL,What do you that think the hunter chased the bear?,0,32354
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,78,0,filler.bigdiff.21,NULL,NULL,It is illegal for one to criticize the government.,1,6525
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,31,0,test.that.do.2.5,5,NULL,Do you think that the attendee packaged the television?,0,5426
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,89,0,filler.smalldiff.32,NULL,NULL,The game was played shoeless.,0,9217
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,60,0,test.that.wh.1.10,10,NULL,What do you think that the husband announced?,1,13271
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,82,0,filler.mediumdiff.25,NULL,NULL,One interpreter each tried to be assigned to every visiting diplomat.,0,22721
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,16,0,test.transposed.wh.5.2,2,NULL,What do you that think the candidate solved?,1,13010
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,87,0,filler.smalldiff.30,NULL,NULL,It seemed at that time that David had left.,1,10522
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,24,0,test.that.wh.1.4,4,NULL,What do you think that the student attended?,1,23458
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,84,0,filler.mediumdiff.27,NULL,NULL,There had hung over the fireplace all of the portraits by Picasso.,1,16114
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,67,0,test.that.do.2.11,11,NULL,Do you think that the broker shredded the file?,0,39001
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Form,4,0,open_ended_question1,NULL,required,I would accept the raise because it is possible that the colleague did most of the work in quantity but I did most of the work in quality.
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,50695
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,79,0,filler.bigdiff.22,NULL,NULL,I told you when we met that Bill will come to the party.,1,9823
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,74,0,test.whether.wh.3.12,12,NULL,What do you wonder whether the critic viewed?,1,13229
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,80,0,filler.bigdiff.23,NULL,NULL,Who the hell is in love with who?,1,7730
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,38,0,test.whether.wh.3.6,6,NULL,What do you wonder whether the girl misplaced?,1,22165
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,88,0,filler.smalldiff.31,NULL,NULL,I told Mr. Smith that I am able to paint the fence together.,0,16305
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,59,0,test.transposed.do.6.9,9,NULL,Do you that think the boyfriend edited the letter?,0,8839
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,83,0,filler.mediumdiff.26,NULL,NULL,That Mary was going out with Luke bothered you.,1,12737
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,9,0,test.whether.do.4.1,1,NULL,Do you wonder whether the patron ate the omelette?,0,9690
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,86,0,filler.smalldiff.29,NULL,NULL,How likely to win the race is John?,1,17706
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,23,0,test.transposed.do.6.3,3,NULL,Do you that think the housekeeper folded the jumper?,0,3394
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,85,0,filler.mediumdiff.28,NULL,NULL,The man that he gave the creeps to last night is over there.,1,15281
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,45,0,test.whether.do.4.7,7,NULL,Do you wonder whether the thief avoided the checkpoint?,0,3642
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Question,81,0,filler.bigdiff.24,NULL,NULL,It is unimaginable for Mary to arrive on time.,1,4578
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Form,5,0,open_ended_question2,NULL,required,I would keep what I saw to myself.
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,32162
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Form,2,0,exit,NULL,randomfield,VwbmbkwG
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Form,2,0,exit,NULL,worker_id,AZ69TBTDH7AZS
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Form,2,0,exit,NULL,identifier,VwbmbkwG
+1581526814,9d475fb8a3cd94a7777c371f9993225a,Form,2,0,exit,NULL,_REACTION_TIME_,20932
+#
+# Results on Wednesday February 12 2020 17:34:23 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36
+# Design number was non-random = 10
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581528863,bdbc1d534744a02b939db6d816891d48,Form,1,0,consent,NULL,age,30
+1581528863,bdbc1d534744a02b939db6d816891d48,Form,1,0,consent,NULL,state name,CA
+1581528863,bdbc1d534744a02b939db6d816891d48,Form,1,0,consent,NULL,biological sex,female
+1581528863,bdbc1d534744a02b939db6d816891d48,Form,1,0,consent,NULL,age,yes
+1581528863,bdbc1d534744a02b939db6d816891d48,Form,1,0,consent,NULL,parents' language,yes1
+1581528863,bdbc1d534744a02b939db6d816891d48,Form,1,0,consent,NULL,_REACTION_TIME_,18281
+1581528863,bdbc1d534744a02b939db6d816891d48,Form,3,0,instructions,NULL,_REACTION_TIME_,229617
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,90,0,practice.bigdiff.111,NULL,NULL,Debbie ate chocolate%2C and Kathy drank milk.,1,7811
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,91,0,practice.mediumdiff.112,NULL,NULL,We students of physics are taller than you of chemistry.,0,6882
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,92,0,practice.smalldiff.113,NULL,NULL,Mary believed that Peter finished school and Bill that Peter got a job.,1,19288
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,17,0,test.transposed.do.6.2,2,NULL,Do you that think the candidate solved the problem?,0,7686
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,82,0,filler.mediumdiff.25,NULL,NULL,One interpreter tried to be assigned to every visiting diplomat.,1,12871
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,53,0,test.transposed.do.6.8,8,NULL,Do you that think the hunter chased the bear?,0,3704
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,89,0,filler.smalldiff.32,NULL,NULL,The game was played shoeless.,0,5989
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,39,0,test.whether.do.4.6,6,NULL,Do you wonder whether the girl misplaced the necklace?,0,3822
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,85,0,filler.mediumdiff.28,NULL,NULL,The man that he gave the creeps to last night is over there.,1,8807
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,25,0,test.that.do.2.4,4,NULL,Do you think that the student attended the workshop?,0,3049
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,80,0,filler.bigdiff.23,NULL,NULL,Who the hell is in love with who?,1,4996
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,68,0,test.whether.wh.3.11,11,NULL,What do you wonder whether the broker shredded the file?,0,6177
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,78,0,filler.bigdiff.21,NULL,NULL,It is illegal for one to criticize the government.,1,6424
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,54,0,test.that.wh.1.9,9,NULL,What do you think that the boyfriend edited?,1,4840
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581528863,bdbc1d534744a02b939db6d816891d48,Form,4,0,open_ended_question1,NULL,required,I would accept the raise and not mention anything to my boss.
+1581528863,bdbc1d534744a02b939db6d816891d48,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,31337
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,84,0,filler.mediumdiff.27,NULL,NULL,There had hung over the fireplace all of the portraits by Picasso.,1,11138
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,32,0,test.whether.wh.3.5,5,NULL,What do you wonder whether the attendee packaged the television?,0,4488
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,88,0,filler.smalldiff.31,NULL,NULL,I told Mr. Smith that I am able to paint the fence together.,0,5753
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,46,0,test.transposed.wh.5.7,7,NULL,What do you that think the thief avoided?,1,6231
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,83,0,filler.mediumdiff.26,NULL,NULL,That Mary was going out with Luke bothered you.,1,7592
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,75,0,test.whether.do.4.12,12,NULL,Do you wonder whether the critic viewed the western?,0,3821
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,81,0,filler.bigdiff.24,NULL,NULL,It is unimaginable for Mary to arrive on time.,1,3649
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,18,0,test.that.wh.1.3,3,NULL,What do you think that the housekeeper folded?,1,6855
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,87,0,filler.smalldiff.30,NULL,NULL,It seemed at that time that David had left.,1,27092
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,61,0,test.that.do.2.10,10,NULL,Do you think that the husband announced the job?,0,2913
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,79,0,filler.bigdiff.22,NULL,NULL,I told you when we met that Bill will come to the party.,1,8353
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,10,0,test.transposed.wh.5.1,1,NULL,What do you that think the patron ate?,1,4715
+1581528863,bdbc1d534744a02b939db6d816891d48,Question,86,0,filler.smalldiff.29,NULL,NULL,How likely to be a riot is there?,0,6292
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581528863,bdbc1d534744a02b939db6d816891d48,Form,5,0,open_ended_question2,NULL,required,I would tell my friend about her partners behavior
+1581528863,bdbc1d534744a02b939db6d816891d48,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,23356
+1581528863,bdbc1d534744a02b939db6d816891d48,Form,2,0,exit,NULL,randomfield,w5Ta677T
+1581528863,bdbc1d534744a02b939db6d816891d48,Form,2,0,exit,NULL,worker_id,AQ9Y6WD8O72ZC
+1581528863,bdbc1d534744a02b939db6d816891d48,Form,2,0,exit,NULL,identifier,w5Ta677T
+1581528863,bdbc1d534744a02b939db6d816891d48,Form,2,0,exit,NULL,_REACTION_TIME_,15692
+#
+# Results on Wednesday February 12 2020 17:37:41 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36
+# Design number was non-random = 10
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Form,1,0,consent,NULL,age,29
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Form,1,0,consent,NULL,state name,PA
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Form,1,0,consent,NULL,biological sex,male
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Form,1,0,consent,NULL,age,yes
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Form,1,0,consent,NULL,parents' language,yes1
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Form,1,0,consent,NULL,_REACTION_TIME_,137230
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Form,3,0,instructions,NULL,_REACTION_TIME_,6862
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,90,0,practice.bigdiff.111,NULL,NULL,Debbie ate chocolate%2C and Kathy drank milk.,1,23184
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,91,0,practice.mediumdiff.112,NULL,NULL,We students of physics are taller than you students of chemistry.,1,323374
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,92,0,practice.smalldiff.113,NULL,NULL,Mary believed Peter finished school and Bill Peter got a job.,0,50750
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,83,0,filler.mediumdiff.26,NULL,NULL,That Mary was going out with Luke bothered you.,1,19590
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,75,0,test.whether.do.4.12,12,NULL,Do you wonder whether the critic viewed the western?,0,41230
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,84,0,filler.mediumdiff.27,NULL,NULL,There had hung over the fireplace all of the portraits by Picasso.,1,36781
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,17,0,test.transposed.do.6.2,2,NULL,Do you that think the candidate solved the problem?,0,14083
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,85,0,filler.mediumdiff.28,NULL,NULL,The man that he gave the creeps to last night is over there.,1,18695
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,46,0,test.transposed.wh.5.7,7,NULL,What do you that think the thief avoided the checkpoint?,0,11354
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,88,0,filler.smalldiff.31,NULL,NULL,I told Mr. Smith that I am able to paint the fence together.,0,14506
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,54,0,test.that.wh.1.9,9,NULL,What do you think that the boyfriend edited the letter?,0,7324
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,82,0,filler.mediumdiff.25,NULL,NULL,One interpreter tried to be assigned to every visiting diplomat.,1,17391
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,25,0,test.that.do.2.4,4,NULL,Do you think that the student attended the workshop?,0,4513
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,78,0,filler.bigdiff.21,NULL,NULL,It is illegal one to criticize the government.,0,12001
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,18,0,test.that.wh.1.3,3,NULL,What do you think that the housekeeper folded?,1,19277
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Form,4,0,open_ended_question1,NULL,required,If i get that position i will do my best
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Form,4,0,open_ended_question1,NULL,_REACTION_TIME_,118370
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,86,0,filler.smalldiff.29,NULL,NULL,How likely to win the race is John?,1,11806
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,68,0,test.whether.wh.3.11,11,NULL,What do you wonder whether the broker shredded the file?,0,4697
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,89,0,filler.smalldiff.32,NULL,NULL,The game was played wearing no shoes.,1,27946
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,39,0,test.whether.do.4.6,6,NULL,Do you wonder whether the girl misplaced the necklace?,0,5135
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,81,0,filler.bigdiff.24,NULL,NULL,It is unimaginable Mary to arrive on time.,0,8203
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,32,0,test.whether.wh.3.5,5,NULL,What do you wonder whether the attendee packaged the television?,0,8512
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,80,0,filler.bigdiff.23,NULL,NULL,Who is in love with who the hell?,0,11281
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,53,0,test.transposed.do.6.8,8,NULL,Do you that think the hunter chased the bear?,0,5626
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,87,0,filler.smalldiff.30,NULL,NULL,It seemed at that time that David had left.,1,5113
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,10,0,test.transposed.wh.5.1,1,NULL,What do you that think the patron ate the omelette?,0,2433
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,79,0,filler.bigdiff.22,NULL,NULL,I told you when we met that Bill will come to the party.,1,1428
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Question,61,0,test.that.do.2.10,10,NULL,Do you think that the husband announced the job?,0,2057
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Form,5,0,open_ended_question2,NULL,required,At that situation i called to my friend and told your partner in restaurant with someone. After that i said to my friend come to restaurant.
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Form,5,0,open_ended_question2,NULL,_REACTION_TIME_,157230
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Form,2,0,exit,NULL,randomfield,f7w4rbD3
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Form,2,0,exit,NULL,worker_id,A2OV5NPNDK5O4C
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Form,2,0,exit,NULL,identifier,f7w4rbD3
+1581529061,9032fb9f7af0b4b068bd7fdd9d60ae72,Form,2,0,exit,NULL,_REACTION_TIME_,99594

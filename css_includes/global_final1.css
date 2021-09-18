@@ -1,0 +1,97 @@
+/* this tell us that the background of all the xp is going to be cream*/
+/* we added the important specification because for some reason this command did not overwrite Drummond's one*/
+body {
+  color: black;
+  background-color: #FFFFCC !important;
+}
+
+
+/* this is for the text in the box */
+span.Question-fake-link {
+  cursor: pointer;
+    font-size: 22;  
+    color: black;
+  font-weight: 500;
+}
+
+p.Question-question-text {
+    margin-left: 0.5em;
+  font-size: 25;
+     color: black;
+     clear: both; 
+  font-weight: 500;
+  vertical-align: middle !important;
+  background-color: #FFFFCC;
+
+}
+
+/* this is for the boxes itself */
+li.Question-scale-box {
+    width: 20em;
+    height: 3em;
+    line-height:2.6em;  /* vertical distance btw lines */
+    border-radius: 3px; /* defines the corners of the boxes */
+    padding-top: 3em; /* space btw text and top */
+    padding-bottom: 0.3em;
+    margin-right: 2em;
+  vertical-align: middle !important;
+   background-color: #FFFFCC;
+ }
+
+/* this is for the sentences without boxes */
+li.Question-normal-answer {
+  width: 50em;
+    height: 3em;
+    line-height:0.5em;  /* vertical distance btw lines */
+    border-radius: 3px; /* defines the corners of the boxes */
+    padding-top: 2.5em; /* space btw text and top */
+    padding-bottom: 0.3em;
+    margin-bottom: 2em;
+  padding-left: 1em;
+  vertical-align: middle !important;
+  border-style: solid;
+  border-width: 1px;
+  text-align: left;
+  vertical-align:middle;
+   background-color: #FFFFCC;
+ }
+
+
+
+.Question-scale-comment-box {  
+  font-size: 20;
+   background-color: #FFFFCC;
+    font-style: normal;
+    
+}
+
+p.practice-box {  
+  color: #7CCBFF;
+    font-size: 20;  
+}
+
+
+.DashedSentence-sentence {  
+    font-size: 30; 
+font-weight: 500;
+     background-color: #FFFFCC !important;
+     color: black;
+     clear: both;  
+    padding-top: 1em;
+}
+
+.DashedSentence-sentence .DashedSentence-ospan {  background-color: #FFFFCC !important; }
+
+.Message-continue-link {
+    font-size: 20; 
+  background-color: #FFFFCC;
+     color: black;
+     clear: both;  
+}
+
+.Separator-next-item-failure-message {
+  color: red;
+  font-size: 26;
+  font-weight: 500 ;
+}
+
